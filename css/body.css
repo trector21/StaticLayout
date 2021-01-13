@@ -52,6 +52,42 @@ body {
     margin-left: 5px;
 } 
 
+
+/*Animation*/
+/* .diamonds {
+    animation-name: diamondAppear;
+    animation-duration: 4s;
+}
+.diamond1 {
+    width: 5px;
+    height: 5px;
+    border: 50px solid transparent;
+    border-bottom-color: rgb(255, 255, 255);
+    position: relative;
+    top: 90px;
+    left: 940px;
+}
+@keyframes diamondAppear {
+    0% {background-color: white;;}
+    25% {background-color: rgba(255, 255, 255, 0.747);}
+    50% {background-color: rgba(255, 255, 255, 0.507);}
+    75% {background-color: rgba(255, 255, 255, 0.212);}
+    100% {background-color: rgba(255, 255, 255, 0);}
+}
+.diamond1:after {
+    content: '';
+    position: absolute;
+    left: -50px;
+    top: 50px;
+    width: 5px;
+    height: 5px;
+    border: 50px solid transparent;
+    border-top-color: rgb(255, 255, 255);
+    animation-name: diamondAppear;
+    animation-duration: 4s;
+    
+} */
+
 /*Picture P tag formatting */
 #hall p1 {
     text-decoration: underline;

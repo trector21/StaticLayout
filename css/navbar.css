@@ -5,7 +5,10 @@
 #logoDiv { 
     left: 47%;
     transform: translateX(-50);
+}
 
+#wizardingworld {
+  padding-left: 915px;
 }
 #login {
     background-color: rgb(150, 91, 218);
@@ -31,9 +34,7 @@ nav ul {
 .newsAndFeatures a {
   color: white;
 }
-.newsAndFeatures a {
-  color: white;
-}
+
 .dropdown-menu :hover{
   color: white;
 }
